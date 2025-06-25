@@ -1,0 +1,11 @@
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.AssemblyInfoInputs.cache
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.AssemblyInfo.cs
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\bin\x64\Release\net6.0\Fortnite23GameServer.deps.json
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\bin\x64\Release\net6.0\Fortnite23GameServer.dll
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\bin\x64\Release\net6.0\Fortnite23GameServer.pdb
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.dll
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\refint\Fortnite23GameServer.dll
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\Fortnite23GameServer.pdb
+C:\Users\sando\Downloads\Fortnite23-LawinServer-FULL\Fortnite23GameServer\obj\x64\Release\net6.0\ref\Fortnite23GameServer.dll
