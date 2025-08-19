@@ -9,6 +9,7 @@ Currently we use the Magma 24.20 GS as base.
 # Current plan
 Our goal is to make newer fortnite builds playeble in Singale player and Multy player! Feel free to join the development.
 
+Currently we are working on a 1:1 24.20 GS!!
 
 **Build support plan**
 
