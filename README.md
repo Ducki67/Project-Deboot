@@ -33,7 +33,7 @@ Latest: GUI test images
   
   <br>
 
-<summary>Looking for preview images?</summary>
+<summary>Looking for preview images? Click here!</summary>
 
 # GUI test 4 
 `FULL GUI test 4`
