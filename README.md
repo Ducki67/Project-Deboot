@@ -16,7 +16,7 @@ Currently we are working on a 1:1 24.20 GS!!
 Heres a samll list of what we want to support MAYBE we add more in the far far future
 | Season | Game Version |
 |---|---|
-| Chapther 4 Season 2 | 24.20 |
+| Chapter 4 Season 2 | 24.20 |
 
 
 
